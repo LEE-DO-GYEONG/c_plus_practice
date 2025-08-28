@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\coding\\practice_cplex_c_plus\\c_plus_practice\\C\u002B\u002B Optimization Study\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25973C6D-FE6A-4A40-A9A3-5D6AEEF00AB0}|step_03\\step_03.vcxproj|C:\\coding\\practice_cplex_c_plus\\c_plus_practice\\C\u002B\u002B Optimization Study\\step_03\\control.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{25973C6D-FE6A-4A40-A9A3-5D6AEEF00AB0}|step_03\\step_03.vcxproj|solutionrelative:step_03\\control.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9C30317-0233-4E02-835A-BA23BBA5B532}|step_02\\step_02.vcxproj|C:\\coding\\practice_cplex_c_plus\\c_plus_practice\\C\u002B\u002B Optimization Study\\step_02\\variables_datatype.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B9C30317-0233-4E02-835A-BA23BBA5B532}|step_02\\step_02.vcxproj|solutionrelative:step_02\\variables_datatype.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CC8B829-2D15-4606-BF67-EE90ED81527D}|step_01\\step_01.vcxproj|C:\\coding\\practice_cplex_c_plus\\c_plus_practice\\C\u002B\u002B Optimization Study\\step_01\\io_hello_world.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4CC8B829-2D15-4606-BF67-EE90ED81527D}|step_01\\step_01.vcxproj|solutionrelative:step_01\\io_hello_world.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9A25BF94-ED46-4D61-98E4-166345D94DE8}|step_04\\step_04.vcxproj|C:\\coding\\practice_cplex_c_plus\\c_plus_practice\\C\u002B\u002B Optimization Study\\step_04\\diet_problem_lp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A25BF94-ED46-4D61-98E4-166345D94DE8}|step_04\\step_04.vcxproj|solutionrelative:step_04\\diet_problem_lp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "control.cpp",
-              "DocumentMoniker": "C:\\coding\\practice_cplex_c_plus\\c_plus_practice\\C\u002B\u002B Optimization Study\\step_03\\control.cpp",
-              "RelativeDocumentMoniker": "step_03\\control.cpp",
-              "ToolTip": "C:\\coding\\practice_cplex_c_plus\\c_plus_practice\\C\u002B\u002B Optimization Study\\step_03\\control.cpp",
-              "RelativeToolTip": "step_03\\control.cpp",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "Title": "diet_problem_lp.cpp",
+              "DocumentMoniker": "C:\\coding\\practice_cplex_c_plus\\c_plus_practice\\C\u002B\u002B Optimization Study\\step_04\\diet_problem_lp.cpp",
+              "RelativeDocumentMoniker": "step_04\\diet_problem_lp.cpp",
+              "ToolTip": "C:\\coding\\practice_cplex_c_plus\\c_plus_practice\\C\u002B\u002B Optimization Study\\step_04\\diet_problem_lp.cpp",
+              "RelativeToolTip": "step_04\\diet_problem_lp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-28T05:13:35.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "variables_datatype.cpp",
-              "DocumentMoniker": "C:\\coding\\practice_cplex_c_plus\\c_plus_practice\\C\u002B\u002B Optimization Study\\step_02\\variables_datatype.cpp",
-              "RelativeDocumentMoniker": "step_02\\variables_datatype.cpp",
-              "ToolTip": "C:\\coding\\practice_cplex_c_plus\\c_plus_practice\\C\u002B\u002B Optimization Study\\step_02\\variables_datatype.cpp",
-              "RelativeToolTip": "step_02\\variables_datatype.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-28T04:38:33.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "io_hello_world.cpp",
-              "DocumentMoniker": "C:\\coding\\practice_cplex_c_plus\\c_plus_practice\\C\u002B\u002B Optimization Study\\step_01\\io_hello_world.cpp",
-              "RelativeDocumentMoniker": "step_01\\io_hello_world.cpp",
-              "ToolTip": "C:\\coding\\practice_cplex_c_plus\\c_plus_practice\\C\u002B\u002B Optimization Study\\step_01\\io_hello_world.cpp",
-              "RelativeToolTip": "step_01\\io_hello_world.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-28T04:37:38.024Z",
+              "WhenOpened": "2025-08-28T05:22:56.51Z",
               "EditorCaption": ""
             }
           ]
