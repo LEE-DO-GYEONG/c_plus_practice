@@ -25,8 +25,10 @@
 
 */
 
+// step06_diet.cpp
 #include <ilcplex/ilocplex.h>
 #include <iostream>
-#include <vector>
-#include <string>
+#include <iomanip>
+
+ILOSTLBEGIN
 
